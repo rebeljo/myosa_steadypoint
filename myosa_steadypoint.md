@@ -3,7 +3,7 @@ publishDate: 2026-08-24T00:00:00Z
 title: SteadyPoint - A Personalized Adaptive Motion Interface for Accessible Human-Computer Interaction
 excerpt: SteadyPoint is a wireless BLE-HID assistive mouse built on the MYOSA platform that learns each user's tremor signature during a 10-second personalized calibration and adapts cursor stabilization in real time using the SPARK adaptive kernel.
 image: steadypoint-cover.jpg
-  
+
 tags:
   - Accessibility
   - AssistiveTechnology
@@ -68,14 +68,16 @@ analog joystick, so users with tremors never need fine-motor button precision.
 ### **Images**
 
 <p align="center">
-<img src="/assets/images/SteadyPoint_ElectroNauts/steadypoint-cover.jpg" width="800"><br/>
-<i>SteadyPoint prototype on the MYOSA board with OLED, analog joystick, and MPU6050</i>
+<img src="steadypoint-cover.jpg" width="800"><br/>
+<i>SteadyPoint system overview — MYOSA board as the sensing and processing hub</i>
 </p>
 
 <p align="center">
-<img src="/assets/images/SteadyPoint_ElectroNauts/steadypoint-screens.jpg" width="800"><br/>
-<i>OLED flow: Splash → Menu → Calibration countdown → SPARK Profile → Mouse mode</i>
+<img src="steadypoint-screens.jpg" width="800"><br/>
+<i>OLED flow: Splash → Menu → Mouse mode/Calibration/Data Collection</i>
 </p>
+
+
 
 
 
